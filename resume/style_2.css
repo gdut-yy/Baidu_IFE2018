@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.wrapper {
+    font-size: 32px;
+}
+
+h1 {
+    background-color: rgb(63, 142, 249);
+    color: white;
+    width: 20%;
+    height: 1500px;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 110px;
+    float: left;
+}
+
+h2 {
+    font-size: 48px;
+    padding: 50px 0 50px 0;
+}
+
+.container {
+    padding-left: 36px;
+    float: left;
+}
+
+.item {
+    font-weight: bold;
+}
+
+.iteminfo {
+    padding-bottom: 30px;
+}
